@@ -1,0 +1,13 @@
+T1	PER 0 2	Xi
+T2	PER 9 14	Obama
+T3	LOC 34 36	US
+T4	LOC 43 48	China
+T6	PER 215 225	Xi Jinping
+T7	PER 245 247	Xi
+T8	LOC 290 292	US
+T9	PER 303 315	Barack Obama
+T10	LOC 319 345	Diaoyutai State Guesthouse
+T11	PER 347 349	Xi
+T12	PER 390 395	Obama
+T13	MISC 423 441	China-US relations
+T5	ORG 91 104	United States

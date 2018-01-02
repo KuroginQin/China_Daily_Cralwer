@@ -1,0 +1,23 @@
+T1	ORG 44 47	CPC
+T2	LOC 49 54	China
+T3	MISC 143 167	Belt and Road Initiative
+T4	PER 239 256	Farkhad Kuanganov
+T5	LOC 281 291	Kazakhstan
+T6	PER 309 318	Kuanganov
+T7	ORG 337 373	"Nur Otan" Democratic People's Party
+T8	LOC 396 406	Kazakhstan
+T9	MISC 434 488	19th National Congress of the Communist Party of China
+T10	LOC 526 536	Kazakhstan
+T11	LOC 561 566	China
+T12	MISC 597 641	2nd China-Central Asia Political Party Forum
+T13	LOC 601 606	China
+T14	LOC 615 619	Asia
+T15	LOC 655 662	Beijing
+T16	ORG 700 703	CPC
+T17	MISC 707 763	Dialogue with World Political Parties High-Level Meeting
+T18	LOC 812 817	Asian
+T19	LOC 830 840	Kazakhstan
+T20	LOC 842 852	Uzbekistan
+T21	LOC 854 864	Tajikistan
+T22	LOC 866 876	Kyrgyzstan
+T23	LOC 881 893	Turkmenistan

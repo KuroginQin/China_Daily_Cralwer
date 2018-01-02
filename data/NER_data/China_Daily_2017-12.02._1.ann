@@ -1,0 +1,15 @@
+T1	LOC 39 44	China
+T2	LOC 84 91	Myanmar
+T3	MISC 161 192	China-Myanmar Economic Corridor
+T4	LOC 161 166	China
+T5	LOC 167 174	Myanmar
+T6	PER 252 262	Xi Jinping
+T7	PER 269 271	Xi
+T8	ORG 303 345	Communist Party of China Central Committee
+T9	LOC 386 393	Myanmar
+T10	PER 411 427	Aung San Suu Kyi
+T11	LOC 431 438	Beijing
+T12	PER 450 457	Suu Kyi
+T13	LOC 464 469	China
+T14	ORG 484 487	CPC
+T15	MISC 484 547	CPC in Dialogue With World Political Parties High-Level Meeting

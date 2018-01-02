@@ -1,0 +1,15 @@
+T1	PER 0 2	Li
+T2	PER 4 9	Putin
+T3	ORG 27 30	EEU
+T4	PER 67 77	Li Keqiang
+T5	LOC 88 93	China
+T6	ORG 184 207	Eurasian Economic Union
+T7	PER 257 271	Vladimir Putin
+T8	LOC 275 281	Moscow
+T9	PER 298 300	Li
+T10	LOC 431 439	Far East
+T11	LOC 464 470	Moscow
+T12	MISC 543 627	sixth Meeting of Heads of Government of China-Central and Eastern European Countries
+T13	LOC 502 510	Budapest
+T14	LOC 512 519	Hungary
+T15	LOC 422 428	Russia

@@ -1,0 +1,10 @@
+T1	PER 0 2	Xi
+T2	ORG 87 90	CPC
+T3	PER 135 145	Xi Jinping
+T4	ORG 172 193	CPC Central Committee
+T5	LOC 322 346	Communist Party of China
+T6	LOC 476 483	Beijing
+T7	PER 485 487	Xi
+T8	ORG 575 578	CPC
+T9	MISC 596 638	World Political Parties High-Level Meeting
+T10	LOC 646 670	Great Hall of the People

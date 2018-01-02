@@ -1,0 +1,12 @@
+T1	ORG 0 7	Beijing
+T2	ORG 33 35	UN
+T3	LOC 49 54	China
+T4	ORG 135 154	UN Security Council
+T6	PER 253 264	Geng Shuang
+T7	ORG 287 297	Washington
+T8	ORG 304 311	Beijing
+T9	ORG 339 348	Pyongyang
+T11	LOC 463 468	China
+T10	ORG 392 429	Democratic People's Republic of Korea
+T12	LOC 542 558	Korean Peninsula
+T5	ORG 208 224	Foreign Ministry

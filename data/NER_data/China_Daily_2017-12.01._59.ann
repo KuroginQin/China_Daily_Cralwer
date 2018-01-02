@@ -1,0 +1,12 @@
+T1	ORG 25 28	B&R
+T2	ORG 54 56	GE
+T3	ORG 58 67	Honeywell
+T4	LOC 106 111	China
+T5	MISC 114 138	Belt and Road Initiative
+T6	ORG 328 337	Honeywell
+T7	ORG 342 358	General Electric
+T8	LOC 405 407	US
+T9	ORG 421 437	General Electric
+T10	ORG 494 526	Power Construction Corp of China
+T11	LOC 521 526	China
+T12	LOC 650 658	Pakistan
