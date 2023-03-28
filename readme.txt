@@ -1,6 +1,6 @@
 0. DESCRIPTION - 简述
     A simple crawler program to crawl news text from the website of China Daily (www.chinadaily.com). 
-    简单的中国日报(China Daily, wwww.chinadaily.com)新闻文本爬虫。
+    简单的中国日报(China Daily, www.chinadaily.com)新闻文本爬虫。
 
     Such program is written to collect a certain scale of English text corpus, which was used for the application of Named Entity Recognition (NER), according to the requirement of a course's final project.
     这个爬虫程序是为了收集一定规模的英文预料用于命名实体识别(Named Entity Recognition, NER)的课程大作业而编写的。
